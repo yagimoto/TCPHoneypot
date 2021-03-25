@@ -10,11 +10,11 @@ TCPHoneypotはTCPポート宛の攻撃をログに保存するハニーポット
 # Installation
 
 ```
-~ ❯❯❯ git clone https://github.com/k4m4/kickthemout.git
+~ ❯❯❯ git clone https://github.com/yagimoto/TCPHoneypot
 
-~ ❯❯❯ cd kickthemout/
+~ ❯❯❯ cd TCPHoneypot/
 
-~/kickthemout ❯❯❯ sudo python3 kickthemout.py
+~/TCPHoneypot ❯❯❯ python3 TCPHoneypot.py
 ```
 # Configuration
 
